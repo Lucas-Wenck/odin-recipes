@@ -6,3 +6,10 @@ body{
 a{
     color: white;
 }
+
+.desc{
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 28px;
+}
